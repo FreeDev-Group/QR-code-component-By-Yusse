@@ -38,8 +38,8 @@ project-folder/
 
 ├── images/
 
-│ └── favicon-32x32.png
-└── image-qr-code.png
+    └── favicon-32x32.png
+    └── image-qr-code.png
 
 ├── custom-README-templete.md
 
@@ -65,7 +65,7 @@ project-folder/
 
 ## Author
 
-Mentee: **Alain Pierre**
+Mentee: **Yusse Célestin**
 
 Mentor: **Salomon Mwilo**
 
