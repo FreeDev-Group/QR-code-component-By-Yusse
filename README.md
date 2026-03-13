@@ -149,9 +149,7 @@ Avoid vague commits such as:
 
 ```
 
-update
-changes
-fix
+Mentee: **Yusse Célestin**
 
 ```
 
