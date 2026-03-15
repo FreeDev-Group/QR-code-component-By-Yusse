@@ -20,7 +20,7 @@ The objective is to recreate the QR Code Component layout using **Vanilla HTML a
 
 Mentor : Salomon Mwilo
 
-Mentee : Yusse
+Mentee : Yusse Celestin 
 
 ---
 
@@ -149,9 +149,7 @@ Avoid vague commits such as:
 
 ```
 
-update
-changes
-fix
+Mentee: **Yusse Célestin**
 
 ```
 
