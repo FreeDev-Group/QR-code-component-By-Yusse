@@ -34,8 +34,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/FreeDev-Group/QR-code-component-By-Yusse.git](https://your-solution-url.com)
+- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
 
 ## My process
 
@@ -52,7 +52,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### What I learned
+I learned how to create a responsive QR card via HTML and CSS. This was interresting and motivational to continue to learn more!
+
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -101,9 +102,9 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Celestin Yusse](https://www.your-site.com)
+- Frontend Mentor - [@Yusse-ai](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@Yusse Celestin](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
